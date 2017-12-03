@@ -1,0 +1,1 @@
+<tr><td class="tdright">{0}</td><td class="tdstatus{1}">{2} UP</td><td class="tdstatus{3}">{4} UP</td><td class="tdstatus{5}">{6} UP</td><td class="tdstatus{7}">{8} UP</td></tr>
